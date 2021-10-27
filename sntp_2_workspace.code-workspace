@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_sntp.h": "c",
+			"sntp.h": "c",
+			"time.h": "c",
+			"esp_system.h": "c",
+			"high-resolution-timer.h": "c",
+			"timespec.h": "c",
+			"protocol_examples_common.h": "c",
+			"o_rtc.h": "c",
+			"esp_timer_impl.h": "c",
+			"esp_intr_alloc.h": "c",
+			"xtensa_api.h": "c",
+			"xtensa_context.h": "c",
+			"corebits.h": "c",
+			"esp_timer.h": "c",
+			"task.h": "c",
+			"freertos.h": "c",
+			"types.h": "c",
+			"esp_log.h": "c",
+			"ets_sys.h": "c",
+			"esp_log_internal.h": "c",
+			"stdint.h": "c",
+			"esp_err.h": "c",
+			"stdint-gcc.h": "c",
+			"nvs_flash.h": "c",
+			"esp_event.h": "c",
+			"esp_int_wdt.h": "c",
+			"esp_task_wdt.h": "c",
+			"esp_attr.h": "c",
+			"cmath": "c",
+			"*.tcc": "c",
+			"cstdlib": "c",
+			"sdkconfig.h": "c"
+		}
+	}
+}
